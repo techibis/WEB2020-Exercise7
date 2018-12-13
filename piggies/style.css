@@ -19,3 +19,33 @@ header{
 body {
 	width:100%;
 }
+#piggy {
+	width:200px;
+	position: fixed;
+	top: 350px;
+	left: 400px;
+}
+#home img, #table, #sidewalk {
+	height: 600px;
+}
+#beef {
+	position: relative;
+	top: -228px;
+	left: -400px;
+	width: 100px;
+	height: 87px;
+}
+#bubble {
+	position: relative;
+	top: -300px;
+	left:  -300px;
+	width: 250px;
+}
+#words {
+	position: relative;
+	top: -594px;
+	left: 408px;
+    width: 200px;
+    font-size: 60px;
+    line-height: 0.9;
+}
